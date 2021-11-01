@@ -1,0 +1,430 @@
+Sun Sep 30 18:24:48 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:24:58 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:25:08 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:25:18 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:25:28 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:25:38 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:25:48 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:25:58 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:26:08 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:26:18 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:26:28 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:26:38 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:26:48 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:26:58 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:27:08 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:27:18 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:27:28 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:27:38 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:27:48 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:27:58 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:28:08 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:28:18 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:28:28 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:28:38 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:28:48 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:28:58 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:29:08 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:29:18 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:29:28 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:29:38 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:29:48 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:29:58 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:30:08 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:30:18 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:30:28 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:30:38 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:30:48 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:30:58 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:31:08 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:31:18 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:31:28 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:31:31 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:31:38 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:31:48 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:31:58 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:32:08 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:32:16 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:32:18 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:32:28 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:32:38 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:32:48 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:32:58 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:33:08 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:33:18 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:33:28 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:33:38 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:33:48 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:33:58 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:34:08 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:34:18 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:34:28 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:34:38 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:34:48 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:34:58 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:35:03 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:35:08 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:35:13 CST 2018 -This hour,Received count: 101559, Saved success count: 1500, Saved failure count: 0,  Buffer Size: 1578  
+
+Sun Sep 30 18:35:18 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:35:23 CST 2018 -This hour,Received count: 234409, Saved success count: 4000, Saved failure count: 0,  Buffer Size: 3000  
+
+Sun Sep 30 18:35:28 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Sun Sep 30 18:35:38 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:03:10 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:03:20 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:03:30 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:03:40 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:03:50 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:04:00 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:04:10 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:04:20 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:04:30 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:04:40 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:04:50 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:05:00 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:05:10 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:05:20 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:05:30 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:05:40 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:05:50 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:06:00 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:06:10 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:06:20 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:06:30 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:06:40 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:06:51 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:07:01 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:07:20 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:07:30 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:07:40 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:07:48 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:07:58 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:08:08 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:08:18 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:08:28 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:08:38 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:08:48 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:09:15 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:09:25 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:09:35 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:09:40 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:09:50 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:10:00 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:12:03 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:12:13 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:12:23 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:12:33 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:12:43 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:12:53 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:13:03 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:13:13 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:13:23 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:13:33 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:13:43 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:13:53 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:14:03 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:14:13 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:14:20 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:14:30 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:14:40 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:14:50 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:15:00 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:15:10 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:15:23 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:15:33 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:15:43 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:15:52 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:16:02 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:19:37 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:19:47 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:19:57 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:20:07 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:20:17 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:20:27 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:20:37 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:20:47 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:20:57 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:21:07 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:21:17 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:21:27 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:21:37 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:21:47 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:21:57 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:22:07 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:22:17 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:22:27 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:22:37 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:22:47 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:22:57 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:23:07 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:23:17 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:23:30 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:23:40 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:23:50 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:24:42 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:25:24 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:25:34 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:25:44 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:25:54 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:26:04 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:26:14 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:26:46 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:26:56 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:27:06 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:27:16 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:27:26 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:27:36 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:27:46 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:27:56 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:28:07 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:28:17 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:28:28 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:28:38 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:28:48 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:28:54 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:29:04 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:29:16 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:29:26 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:29:36 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:29:42 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:29:52 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:30:02 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:30:12 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:32:00 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:32:10 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:32:20 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:33:32 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:33:42 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:33:52 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:34:02 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:34:12 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:34:18 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:34:28 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:35:58 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:36:30 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:36:40 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:36:50 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:37:00 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:39:07 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:42:14 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:42:24 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:42:34 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:42:44 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:42:54 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:43:04 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:43:14 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+
+Fri Dec 21 16:43:24 CST 2018 -This hour,Received count: 0, Saved success count: 0, Saved failure count: 0,  Buffer Size: 0  
+

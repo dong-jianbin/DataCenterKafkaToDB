@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tables>
+
+	<Table type="xxxx.xxxxx">
+		<col>PARTITION_ID,1,NUMBER</col>
+		<col>USER_ID,1,NUMBER</col>
+		<col>LEAVE_REAL_FEE,0,NUMBER</col>
+		<col>REAL_FEE,0,NUMBER</col>
+		<col>IN_TAG,0,CHAR</col>
+		<col>UPDATE_TIME,0,DATE</col>
+	</Table>
+
+</Tables>

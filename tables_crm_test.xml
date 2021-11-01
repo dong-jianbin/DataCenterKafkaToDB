@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tables>
+
+	<Table type="xxx.xxxx">
+		<col>PARTITION_ID,1,NUMBER</col>
+		<col>USER_ID,1,NUMBER</col>
+		<col>ATTR_CODE,1,VARCHAR2</col>
+		<col>ATTR_VALUE,1,VARCHAR2</col>
+		<col>START_DATE,1,DATE</col>
+		<col>END_DATE,1,DATE</col>
+	</Table>
+
+</Tables>
